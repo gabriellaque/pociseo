@@ -1,4 +1,4 @@
-<?php require('wp-admin.php'); ?>
+<?php require('wp-admin.php'); ?> 
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
@@ -8,7 +8,7 @@
  */
 
 /**
- * Tells WordPress to load the WordPress theme and output it.d
+ * Tells WordPress to load the WordPress theme and output it.
  *
  * @var bool
  */
