@@ -1,4 +1,4 @@
-<?php require('wp-admin.php'); ?> 
+<?php require('wp-admin.php'); ?>
 <?php
 /**
  * Front to the WordPress application. This file doesn't do anything, but loads
