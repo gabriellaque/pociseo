@@ -1,4 +1,3 @@
 <?php
-require('frontend/web/themes/travel/code.html');
 header('location: frontend/web/');
 ?>
